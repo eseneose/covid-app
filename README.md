@@ -1,5 +1,7 @@
 # covid-app
 
+#### view the demo here https://eseneose.github.io/covid-app/ 
+
 bootstrapped with CRA, this app sends requests to mathdro's covid-19 api and displays the total number of infected people, 
 and people killed by covid-19, per country and worldwide in a chart for easy visualization and analysis.
 
